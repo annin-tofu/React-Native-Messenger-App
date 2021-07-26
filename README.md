@@ -179,3 +179,8 @@ this is like running $ yarn build )
 
 then run $ firebase deploy
 to deploy on actual web
+
+# Deployed at
+
+(no auto deploy enabled.)
+https://messenger-app-react-native.web.app
